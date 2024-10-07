@@ -1,2 +1,2 @@
 # Proyecto
-Nuestro proyecto para deteccion y ayuda para estudaintes universitarios mediante una ia 
+Nuestro proyecto para deteccion y ayuda para estudiantes universitarios mediante una ia 
